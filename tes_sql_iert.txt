@@ -1,0 +1,764 @@
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 2);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 3);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 4);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 5);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 6);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 7);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 8);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 9);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 10);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 11);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 12);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 13);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 14);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 15);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 16);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 17);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 18);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 19);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 20);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 21);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 22);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 23);
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (1, 24);
+
+------------------------------------------------------------------------
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('LOVELY TZUCHI ESTER SIMATUPANG',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 26);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('MUHAMMAD RAFTA RIZKY RIANDRA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 27);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('MUHAMMAD FARID NAUFAL',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 28);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('MOCHAMMAD DZAKI MUDRIKAH',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 29);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('NOVALINDA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 30);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('RADITYA RAHMAN MAULANA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 31);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('REFAYA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 32);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('RIZKY BHAYOE SEMERU',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 33);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('SHEPHERD AXEL F. G',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 34);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('TANAYA ANINDYA PUTRI',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 35);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('VERONICA SALSABILA SADARA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 36);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('VICKA ADI PUTRA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 37);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('WIDYA BAGUS KUNCORO PUTRA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 38);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ZHOLA VARYAN MUHAMMAD',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 39);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ADELIA SAPTYARINA ADELIA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 40);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ADINDA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 41);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('AMYRA DARA CALISTA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 42);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ANAYA LUTFIA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 43);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ASHA CALISTA NADYA PUTRI',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 44);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('CHAIRIDIA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 45);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('DARU SUSANTO',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (3, 46);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('FEMMY HERMALIA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (3, 47);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('GAVINDRA RAMADHANSYAH FADYL',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (3, 48);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('INDIRA YEKTI',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (3, 49);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('KHANSA PRATISENA ',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (3, 50);
+--------------------------------------------------------------------------
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('KIRANA ALDA CHARITY',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('MUHAMMAD HAEKAL',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('MUHAMMAD RAMZY NAUVAL',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('MUHAMMAD SAMMY AKBAR',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('NABIL RAFI KHAIRAN',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('PUTRI DEWIPRILIANTI',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('RAHMAD MAULANA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('SITI AISYAH ',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ZAFIRA ZARAFINA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ZAHRANISYAH HANAYUKA',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ZULFI RASYIDIN',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ADE RIYANI FAIRUZ',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('AGHNA VIVALDI MUHAMMAD NOER',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('AISYAH FATIMAH FATAH',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('ANNISA CALISTA MAHARANI',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+INSERT INTO res_users_apikeys (name,user_id,scope,index_value,key_value,create_date) VALUES ('AULIA NISRINA NABIHAH',null,'','','',NOW());
+INSERT INTO res_company_users_rel (cid, user_id) VALUES (2, 25);
+
+===============================================================================================================================================================
+############# Perusahaan lampu (lumina)
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (11, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Produksi dan Manufaktur', '', 1, NOW(), NOW());
+
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Produksi dan Manufaktur', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Penelitian dan Pengembangan (R&D)', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Teknik dan Pemeliharaan', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Penjualan dan Pemasaran', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Layanan Pelanggan', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Keuangan dan Administrasi', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Kualitas dan Pengendalian Mutu', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Logistik dan Distribusi', '', 1, NOW(), NOW()
+    );
+
+    -------------------Produksi dan Manufaktur 42
+    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, 42, NULL, NULL, '', '', 'Perakitan Lampu', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 42, NULL, NULL, '', '', 'Pengujian Kualitas', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 42, NULL, NULL, '', '', 'Pengembangan Produk Baru', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 42, NULL, NULL, '', '', 'Manufaktur Komponen', '', 1, NOW(), NOW()
+    );
+
+    -------------------Penelitian dan Pengembangan (R&D) 43
+    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, 43, NULL, NULL, '', '', 'Desain Produk', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 43, NULL, NULL, '', '', 'Pengembangan Teknologi Lampu', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 43, NULL, NULL, '', '', 'Inovasi Material', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 43, NULL, NULL, '', '', 'Penelitian Pasar', '', 1, NOW(), NOW()
+    );
+
+    
+
+    -------------------Teknik dan Pemeliharaan 44
+    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, 44, NULL, NULL, '', '', 'Perawatan Mesin dan Peralatan', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 44, NULL, NULL, '', '', 'Perawatan Fasilitas', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 44, NULL, NULL, '', '', 'Keandalan dan Kualitas', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 44, NULL, NULL, '', '', 'Kesehatan dan Keselamatan Kerja (K3)', '', 1, NOW(), NOW()
+    );
+
+
+    -------------------Penjualan dan Pemasaran 45
+    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, 45, NULL, NULL, '', '', 'Penjualan Grosir', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 45, NULL, NULL, '', '', 'Penjualan Eceran', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 45, NULL, NULL, '', '', 'Pemasaran Digital', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 45, NULL, NULL, '', '', 'Strategi Penjualan', '', 1, NOW(), NOW()
+    );
+
+
+
+    -------------------Layanan Pelanggan 46
+    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, 46, NULL, NULL, '', '', 'Dukungan Teknis', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 46, NULL, NULL, '', '', 'Penanganan Keluhan', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 46, NULL, NULL, '', '', 'Pemeliharaan Pasca Penjualan', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 46, NULL, NULL, '', '', 'Pelatihan Pengguna', '', 1, NOW(), NOW()
+    );
+
+
+    -------------------Keuangan dan Administrasi 47
+    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, 47, NULL, NULL, '', '', 'Akuntansi', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 47, NULL, NULL, '', '', 'Pengelolaan Keuangan', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 47, NULL, NULL, '', '', 'Administrasi Umum', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 47, NULL, NULL, '', '', 'Pengadaan dan Persediaan', '', 1, NOW(), NOW()
+    );
+
+
+
+    -------------------Kualitas dan Pengendalian Mutu 48
+    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, 48, NULL, NULL, '', '', 'Jaminan Kualitas', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 48, NULL, NULL, '', '', 'Pengendalian Proses Produksi', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 48, NULL, NULL, '', '', 'Pengujian Produk', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 48, NULL, NULL, '', '', 'Sertifikasi Kualitas', '', 1, NOW(), NOW()
+    );
+
+
+    -------------------Logistik dan Distribusi 49
+    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (18, NULL, NULL, NULL, 49, NULL, NULL, '', '', 'Manajemen Persediaan', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 49, NULL, NULL, '', '', 'Distribusi dan Pengiriman', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 49, NULL, NULL, '', '', 'Manajemen Rute Pengiriman', '', 1, NOW(), NOW()),
+    (18, NULL, NULL, NULL, 49, NULL, NULL, '', '', 'Kemitraan Logistik', '', 1, NOW(), NOW()
+    );
+
+
+===============================================================================================================================================================
+############# Perusahaan pakaian (Nebraska(17), Eflyer(21), yume(3), treasure(22), Casmart(23))
+
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (17, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Pembelian dan Persediaan', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Penjualan dan Pemasaran', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Desain dan Pengembangan Produk', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Layanan Pelanggan', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Visual Merchandising', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Keuangan dan Administrasi', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Logistik dan Distribusi', '', 1, NOW(), NOW()
+    );
+
+        -------------------Pembelian dan Persediaan 82
+            INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (17, NULL, NULL, NULL, 82, NULL, NULL, '', '', 'Pembelian Barang', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 82, NULL, NULL, '', '', 'Manajemen Persediaan', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 82, NULL, NULL, '', '', 'Pengaturan Pemasok', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 82, NULL, NULL, '', '', 'Evaluasi Kualitas Produk', '', 1, NOW(), NOW()
+    );
+
+        -------------------Penjualan dan Pemasaran 83
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (17, NULL, NULL, NULL, 83, NULL, NULL, '', '', 'Penjualan Grosir', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 83, NULL, NULL, '', '', 'Penjualan Eceran', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 83, NULL, NULL, '', '', 'Pemasaran Digital', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 83, NULL, NULL, '', '', 'Promosi dan Diskon', '', 1, NOW(), NOW()
+    );
+
+        -------------------Desain dan Pengembangan Produk 84
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (17, NULL, NULL, NULL, 84, NULL, NULL, '', '', 'Desain Produk', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 84, NULL, NULL, '', '', 'Pengembangan Produk Baru', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 84, NULL, NULL, '', '', 'Prototyping', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 84, NULL, NULL, '', '', 'Penelitian Tren Fashion', '', 1, NOW(), NOW()
+    );
+
+
+        -------------------Layanan Pelanggan 85
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (17, NULL, NULL, NULL, 85, NULL, NULL, '', '', 'Dukungan Pelanggan', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 85, NULL, NULL, '', '', 'Pengembalian dan Penukaran', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 85, NULL, NULL, '', '', 'Penanganan Keluhan', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 85, NULL, NULL, '', '', 'Layanan Purna Jual', '', 1, NOW(), NOW()
+    );
+
+
+
+        -------------------Visual Merchandising 86
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (17, NULL, NULL, NULL, 86, NULL, NULL, '', '', 'Penataan Tampilan Toko', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 86, NULL, NULL, '', '', 'Penyusunan Pajangan Produk', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 86, NULL, NULL, '', '', 'Desain Interior Toko', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 86, NULL, NULL, '', '', 'Manajemen Visual Branding', '', 1, NOW(), NOW()
+    );
+
+
+
+
+        -------------------Keuangan dan Administrasi 87
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (17, NULL, NULL, NULL, 87, NULL, NULL, '', '', 'Akuntansi', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 87, NULL, NULL, '', '', 'Pengelolaan Keuangan', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 87, NULL, NULL, '', '', 'Penggajian dan Pajak', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 87, NULL, NULL, '', '', 'Administrasi Umum', '', 1, NOW(), NOW()
+    );
+
+
+        -------------------Logistik dan Distribusi 88
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (17, NULL, NULL, NULL, 88, NULL, NULL, '', '', 'Manajemen Persediaan', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 88, NULL, NULL, '', '', 'Pengiriman dan Pengantaran', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 88, NULL, NULL, '', '', 'Manajemen Rute Pengiriman', '', 1, NOW(), NOW()),
+    (17, NULL, NULL, NULL, 88, NULL, NULL, '', '', 'Kemitraan Logistik', '', 1, NOW(), NOW()
+    );
+
+
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (21, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Pembelian dan Persediaan', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Penjualan dan Pemasaran', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Desain dan Pengembangan Produk', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Layanan Pelanggan', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Visual Merchandising', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Keuangan dan Administrasi', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Logistik dan Distribusi', '', 1, NOW(), NOW()
+    );
+
+
+        -------------------Pembelian dan Persediaan 89
+            INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (21, NULL, NULL, NULL, 89, NULL, NULL, '', '', 'Pembelian Barang', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 89, NULL, NULL, '', '', 'Manajemen Persediaan', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 89, NULL, NULL, '', '', 'Pengaturan Pemasok', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 89, NULL, NULL, '', '', 'Evaluasi Kualitas Produk', '', 1, NOW(), NOW()
+    );
+
+        -------------------Penjualan dan Pemasaran 90
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (21, NULL, NULL, NULL, 90, NULL, NULL, '', '', 'Penjualan Grosir', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 90, NULL, NULL, '', '', 'Penjualan Eceran', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 90, NULL, NULL, '', '', 'Pemasaran Digital', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 90, NULL, NULL, '', '', 'Promosi dan Diskon', '', 1, NOW(), NOW()
+    );
+
+        -------------------Desain dan Pengembangan Produk 91
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (21, NULL, NULL, NULL, 91, NULL, NULL, '', '', 'Desain Produk', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 91, NULL, NULL, '', '', 'Pengembangan Produk Baru', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 91, NULL, NULL, '', '', 'Prototyping', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 91, NULL, NULL, '', '', 'Penelitian Tren Fashion', '', 1, NOW(), NOW()
+    );
+
+
+        -------------------Layanan Pelanggan 92
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (21, NULL, NULL, NULL, 92, NULL, NULL, '', '', 'Dukungan Pelanggan', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 92, NULL, NULL, '', '', 'Pengembalian dan Penukaran', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 92, NULL, NULL, '', '', 'Penanganan Keluhan', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 92, NULL, NULL, '', '', 'Layanan Purna Jual', '', 1, NOW(), NOW()
+    );
+
+
+
+        -------------------Visual Merchandising 93
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (21, NULL, NULL, NULL, 93, NULL, NULL, '', '', 'Penataan Tampilan Toko', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 93, NULL, NULL, '', '', 'Penyusunan Pajangan Produk', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 93, NULL, NULL, '', '', 'Desain Interior Toko', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 93, NULL, NULL, '', '', 'Manajemen Visual Branding', '', 1, NOW(), NOW()
+    );
+
+
+
+
+        -------------------Keuangan dan Administrasi 94
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (21, NULL, NULL, NULL, 94, NULL, NULL, '', '', 'Akuntansi', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 94, NULL, NULL, '', '', 'Pengelolaan Keuangan', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 94, NULL, NULL, '', '', 'Penggajian dan Pajak', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 94, NULL, NULL, '', '', 'Administrasi Umum', '', 1, NOW(), NOW()
+    );
+
+
+        -------------------Logistik dan Distribusi 95
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (21, NULL, NULL, NULL, 95, NULL, NULL, '', '', 'Manajemen Persediaan', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 95, NULL, NULL, '', '', 'Pengiriman dan Pengantaran', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 95, NULL, NULL, '', '', 'Manajemen Rute Pengiriman', '', 1, NOW(), NOW()),
+    (21, NULL, NULL, NULL, 95, NULL, NULL, '', '', 'Kemitraan Logistik', '', 1, NOW(), NOW()
+    );
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Pembelian dan Persediaan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Penjualan dan Pemasaran', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Desain dan Pengembangan Produk', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Layanan Pelanggan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Visual Merchandising', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Keuangan dan Administrasi', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Logistik dan Distribusi', '', 1, NOW(), NOW()
+    );
+
+    
+        -------------------Pembelian dan Persediaan 96
+            INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, 96, NULL, NULL, '', '', 'Pembelian Barang', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 96, NULL, NULL, '', '', 'Manajemen Persediaan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 96, NULL, NULL, '', '', 'Pengaturan Pemasok', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 96, NULL, NULL, '', '', 'Evaluasi Kualitas Produk', '', 1, NOW(), NOW()
+    );
+
+        -------------------Penjualan dan Pemasaran 97
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, 97, NULL, NULL, '', '', 'Penjualan Grosir', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 97, NULL, NULL, '', '', 'Penjualan Eceran', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 97, NULL, NULL, '', '', 'Pemasaran Digital', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 97, NULL, NULL, '', '', 'Promosi dan Diskon', '', 1, NOW(), NOW()
+    );
+
+        -------------------Desain dan Pengembangan Produk 98
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, 98, NULL, NULL, '', '', 'Desain Produk', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 98, NULL, NULL, '', '', 'Pengembangan Produk Baru', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 98, NULL, NULL, '', '', 'Prototyping', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 98, NULL, NULL, '', '', 'Penelitian Tren Fashion', '', 1, NOW(), NOW()
+    );
+
+
+        -------------------Layanan Pelanggan 99
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, 99, NULL, NULL, '', '', 'Dukungan Pelanggan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 99, NULL, NULL, '', '', 'Pengembalian dan Penukaran', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 99, NULL, NULL, '', '', 'Penanganan Keluhan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 99, NULL, NULL, '', '', 'Layanan Purna Jual', '', 1, NOW(), NOW()
+    );
+
+
+
+        -------------------Visual Merchandising 100
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, 100, NULL, NULL, '', '', 'Penataan Tampilan Toko', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 100, NULL, NULL, '', '', 'Penyusunan Pajangan Produk', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 100, NULL, NULL, '', '', 'Desain Interior Toko', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 100, NULL, NULL, '', '', 'Manajemen Visual Branding', '', 1, NOW(), NOW()
+    );
+
+
+
+
+        -------------------Keuangan dan Administrasi 101
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, 101, NULL, NULL, '', '', 'Akuntansi', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 101, NULL, NULL, '', '', 'Pengelolaan Keuangan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 101, NULL, NULL, '', '', 'Penggajian dan Pajak', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 101, NULL, NULL, '', '', 'Administrasi Umum', '', 1, NOW(), NOW()
+    );
+
+
+        -------------------Logistik dan Distribusi 102
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, 102, NULL, NULL, '', '', 'Manajemen Persediaan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 102, NULL, NULL, '', '', 'Pengiriman dan Pengantaran', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 102, NULL, NULL, '', '', 'Manajemen Rute Pengiriman', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, 102, NULL, NULL, '', '', 'Kemitraan Logistik', '', 1, NOW(), NOW()
+    );
+
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (22, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Pembelian dan Persediaan', '', 1, NOW(), NOW()),
+    (22, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Penjualan dan Pemasaran', '', 1, NOW(), NOW()),
+    (22, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Desain dan Pengembangan Produk', '', 1, NOW(), NOW()),
+    (22, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Layanan Pelanggan', '', 1, NOW(), NOW()),
+    (22, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Visual Merchandising', '', 1, NOW(), NOW()),
+    (22, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Keuangan dan Administrasi', '', 1, NOW(), NOW()),
+    (22, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Logistik dan Distribusi', '', 1, NOW(), NOW()
+    );
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (23, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Pembelian dan Persediaan', '', 1, NOW(), NOW()),
+    (23, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Penjualan dan Pemasaran', '', 1, NOW(), NOW()),
+    (23, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Desain dan Pengembangan Produk', '', 1, NOW(), NOW()),
+    (23, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Layanan Pelanggan', '', 1, NOW(), NOW()),
+    (23, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Visual Merchandising', '', 1, NOW(), NOW()),
+    (23, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Keuangan dan Administrasi', '', 1, NOW(), NOW()),
+    (23, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Logistik dan Distribusi', '', 1, NOW(), NOW()
+    );
+
+
+===============================================================================================================================================================
+############# Perusahaan Sepatu (FootCap(26), Nike(27))
+
+
+===============================================================================================================================================================
+############# Perusahaan Furniture (Woodex(24), Furnitek(25))
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Pembelian dan Persediaan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Penjualan dan Pemasaran', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Desain dan Pengembangan Produk', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Layanan Pelanggan', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Visual Merchandising', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Keuangan dan Administrasi', '', 1, NOW(), NOW()),
+    (3, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Logistik dan Distribusi', '', 1, NOW(), NOW()
+    );
+
+===============================================================================================================================================================
+############# Perusahaan Properti (terra(28), Suktura v2)
+
+===============================================================================================================================================================
+############# Perusahaan Kuliner (restaurant) (Foodhub(29),Grilli(30),aresto(15), tailfood(31),kfc(32), savorbite(9), FastEat(33), Foodie(34))
+
+===============================================================================================================================================================
+############# Perusahaan  Jual sewa kendaraan   (drivon(35), drivon v2(20), ridex(36), transportio(37), volti(38))
+
+===============================================================================================================================================================
+############# Perusahaan Tour and Travel   (Plonia(16), travelix, plonia v2, aurofil(1))
+
+===============================================================================================================================================================
+############# Office App (nexus(41),vendiar(42))
+
+===============================================================================================================================================================
+############# Perusahaan F&B (tatiana(43), Keofi(44))
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Restaurant Operations', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Sales and Marketing', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Procurement and Inventory', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Finance and Administration', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Menu Development and Culinary', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Customer Service', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Quality Assurance and Control', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Information Technology (IT)', '', 1, NOW(), NOW()
+    );
+
+-------------------------Restaurant Operations (208)
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, 208, NULL, NULL, '', '', 'Restaurant Service', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 208, NULL, NULL, '', '', 'Kitchen (Back-of-House)', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 208, NULL, NULL, '', '', 'Bar', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 208, NULL, NULL, '', '', 'Dining Area Management', '', 1, NOW(), NOW()
+    );
+-------------------------Sales and Marketing (209)
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, 209, NULL, NULL, '', '', 'Digital Marketing', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 209, NULL, NULL, '', '', 'Promotions and Events', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 209, NULL, NULL, '', '', 'Wholesale Sales', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 209, NULL, NULL, '', '', 'Pricing Strategy and Discounts', '', 1, NOW(), NOW()
+    );
+-------------------------Procurement and Inventory (210)
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, 210, NULL, NULL, '', '', 'Raw Material Purchasing', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 210, NULL, NULL, '', '', 'Inventory Management', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 210, NULL, NULL, '', '', 'Storage and Distribution', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 210, NULL, NULL, '', '', 'Quality Control', '', 1, NOW(), NOW()
+    );
+-------------------------Finance and Administration (211)
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, 211, NULL, NULL, '', '', 'Accounting', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 211, NULL, NULL, '', '', 'Financial Management', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 211, NULL, NULL, '', '', 'Payroll and Taxation', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 211, NULL, NULL, '', '', 'General Administration', '', 1, NOW(), NOW()
+    );
+-------------------------Menu Development and Culinary (212)
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, 212, NULL, NULL, '', '', 'Menu Development', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 212, NULL, NULL, '', '', 'Ingredient and Flavor Research', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 212, NULL, NULL, '', '', 'Culinary Innovation', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 212, NULL, NULL, '', '', 'Food Quality', '', 1, NOW(), NOW()
+    );
+-------------------------Customer Service (213)
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, 213, NULL, NULL, '', '', 'Reservations and Bookings', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 213, NULL, NULL, '', '', 'Customer Support', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 213, NULL, NULL, '', '', 'Complaint Handling', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 213, NULL, NULL, '', '', 'Loyalty Programs', '', 1, NOW(), NOW()
+    );
+-------------------------Quality Assurance and Control (214)
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, 214, NULL, NULL, '', '', 'Quality Assurance', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 214, NULL, NULL, '', '', 'Food Safety Monitoring', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 214, NULL, NULL, '', '', 'Certification and Compliance', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 214, NULL, NULL, '', '', 'Operational Audits', '', 1, NOW(), NOW()
+    );
+-------------------------Information Technology (215)
+                    INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (43, NULL, NULL, NULL, 215, NULL, NULL, '', '', 'Point-of-Sale (POS) System Management', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 215, NULL, NULL, '', '', 'IT Infrastructure', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 215, NULL, NULL, '', '', 'IT Security', '', 1, NOW(), NOW()),
+    (43, NULL, NULL, NULL, 215, NULL, NULL, '', '', 'System Integration', '', 1, NOW(), NOW()
+    );
+
+
+INSERT INTO hr_department (company_id, parent_id, manager_id, color, master_department_id, create_uid, write_uid, complete_name, parent_path, name, note, active, create_date, write_date)
+VALUES                   
+    (44, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Restaurant Operations', '', 1, NOW(), NOW()),
+    (44, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Sales and Marketing', '', 1, NOW(), NOW()),
+    (44, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Procurement and Inventory', '', 1, NOW(), NOW()),
+    (44, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Finance and Administration', '', 1, NOW(), NOW()),
+    (44, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Menu Development and Culinary', '', 1, NOW(), NOW()),
+    (44, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Customer Service', '', 1, NOW(), NOW()),
+    (44, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Quality Assurance and Control', '', 1, NOW(), NOW()),
+    (44, NULL, NULL, NULL, NULL, NULL, NULL, '', '', 'Information Technology (IT)', '', 1, NOW(), NOW()
+    );
+
+===============================================================================================================================================================
+############# Perusahaan Hospital (primea(45))
+
+===============================================================================================================================================================
+############# Perusahaan Hotel (Neptunus(46), Laverna(47)  )
+
+===============================================================================================================================================================
+############# Perusahaan Pertanian dan taman / Botani (Garden(48), ogani(19), TeaTherapy(14))
+
+===============================================================================================================================================================
+############# Perusahaan Fitness/Gym/Yoga (Flexflow(6), Futras(49))
+
+===============================================================================================================================================================
+############# Perusahaan Ice cream (savory(50))
+
+===============================================================================================================================================================
+############# Perusahaan Movie Streaming (cineflix(51), filmlane(52))
+
+===============================================================================================================================================================
+############# Perusahaan Buah (Ecodible(5))
+
+===============================================================================================================================================================
+############# Perusahaan Handicraft (Crafti(56))
+
+===============================================================================================================================================================
+############# Perusahaan Skin Care (Dermstore(54), Glowing(55))
+
+===============================================================================================================================================================
+############# Perusahaan Jual Buku (Booken(53))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
